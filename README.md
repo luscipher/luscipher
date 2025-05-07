@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, I'm Luisa!
 
-<!--
-**luscipher/luscipher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Bachelor in **Computer Science** at UENP (2020–2025), passionate about technology, code, and creating impactful digital solutions.  
 
-Here are some ideas to get you started:
+Over the years, I've been exploring and building projects focused on **frontend development** and **mobile applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Skills & Technologies
+- **Frontend**: HTML, CSS, Angular, Flutter
+- **Backend**: SpringBoot, PHP
+- **Mobile**: Flutter
+- **Others**: Git, Figma
+
+## Projects Highlight
+- Developed an app to empower women entrepreneurs in digital spaces (extension project at UENP).
+
+## Let's Connect!
+
+[bluesky](https://bsky.app/profile/luscifer.bsky.social) | [linkedin](https://www.linkedin.com/in/luisa-farias-a76936302/) | [instagram](https://www.instagram.com/lus.dev/)
