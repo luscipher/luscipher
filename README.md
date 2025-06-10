@@ -1,5 +1,5 @@
-## Hi there, I'm Luisa!
-- I am a Web Developer and Graduate in computer science.
+## About me
+- Hi there, my name is Luisa and I am a Web Developer and Graduate in computer science.
 - My current goal is to learn more about mobile develepment.
 
 ## Skills & Technologies
