@@ -1,7 +1,6 @@
 ## Hi there, I'm Luisa!
-
-I'm a Bachelor in **Computer Science** at UENP (2020–2025), I've been exploring and building projects focused on **frontend development** and **mobile applications**.
-
+- I am a Web Developer and Graduate in computer science.
+- My current goal is to learn more about mobile develepment.
 
 ## Skills & Technologies
 - **Frontend**: HTML, CSS, Angular, Flutter
